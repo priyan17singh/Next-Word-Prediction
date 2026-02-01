@@ -9,8 +9,7 @@ The app is developed using **TensorFlow/Keras** and deployed with a clean, inter
 
 ## 🌐 Live Demo
 
-👉 **Live App:** https://<your-app-name>.streamlit.app  
-*(Replace with your Streamlit Cloud URL)*
+👉 **Live App:** https://next-word-prediction-2.streamlit.app/
 
 ---
 
